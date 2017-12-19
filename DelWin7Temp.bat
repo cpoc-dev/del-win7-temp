@@ -1,0 +1,1 @@
+del /f /s /q c:\windows\temp\*.*
